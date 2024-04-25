@@ -3,6 +3,7 @@
 EDG - Blip Creator
 
 dependency 'ox_lib'
+
 Really simple Way to Create blips,
 or Delete them with 1 Click.
 
