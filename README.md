@@ -1,5 +1,8 @@
 EDG - Blip Creator
 
+BUY:
+https://eden-garden-shop.tebex.io/
+
 dependency 'ox_lib'
 Really simple Way to Create blips,
 or Delete them with 1 Click.
